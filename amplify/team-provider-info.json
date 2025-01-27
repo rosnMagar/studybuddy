@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-studybuddy-dev-923db-authRole",
+      "UnauthRoleArn": "arn:aws:iam::273354649972:role/amplify-studybuddy-dev-923db-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::273354649972:role/amplify-studybuddy-dev-923db-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-studybuddy-dev-923db-deployment",
+      "UnauthRoleName": "amplify-studybuddy-dev-923db-unauthRole",
+      "StackName": "amplify-studybuddy-dev-923db",
+      "StackId": "arn:aws:cloudformation:us-east-2:273354649972:stack/amplify-studybuddy-dev-923db/d0ae5c40-dcd4-11ef-8664-02d37d576d87",
+      "AmplifyAppId": "d3sxov61aacnhx"
+    }
+  }
+}
